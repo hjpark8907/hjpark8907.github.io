@@ -20,11 +20,14 @@ author: Hyung-Jun Park
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Lab: "aboutme"
+  Mambers:
+    - Professor: "professor"
+    - Students: "students"
+    - Alumni: "alumni"
+  Research: "research"
+  Publications: "publication"
+  Lecture: "lecture"
 
 ################
 # --- Logo --- #
