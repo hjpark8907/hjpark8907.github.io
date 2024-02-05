@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Multiphysics Simulation and <br> Computational Mechanics Lab'
-subtitle: School of Mechanical and Aerospace Engineering, [SCNU](https://www.scnu.ac.kr/SCNU/main.do?introChk=Y)
+subtitle: 'School of Mechanical and Aerospace Engineering, [SCNU](https://www.scnu.ac.kr/SCNU/main.do?introChk=Y)'
 ---
 
 <br/>
