@@ -1,14 +1,14 @@
 ---
 layout: page
 title: 'Multiphysics Simulation and <br> Computational Mechanics Lab'
-subtitle: School of Mechanical and Aerospace Engineering, SCNU
+subtitle: School of Mechanical and Aerospace Engineering, [SCNU](https://www.scnu.ac.kr/SCNU/main.do?introChk=Y)
 ---
 
 <br/>
 
-## About me
+## Welcome to MSCM Lab
 
-**Hyung-Jun Park** is a **_professor_** of [SCNU](https://www.scnu.ac.kr/SCNU/main.do?introChk=Y)
+We simulate **_multiphysics_** including fluid, structure, and granular and develope **_computational mechanics methods_**.
 
 ## Contact
 
