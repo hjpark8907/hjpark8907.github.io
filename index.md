@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Multiphysics Simulation and <br> Computational Mechanics Lab'
+title: 'Computational Analysis for Multiphysics Laboratory'
 subtitle: School of Mechanical and Aerospace Engineering, SCNU
 ---
 
