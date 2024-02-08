@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'Computational Analysis for Multiphysics Laboratory'
+title: 'Computational<br>Analysis for<br>Multiphysics<br>Laboratory'
 subtitle: School of Mechanical and Aerospace Engineering, SCNU
 ---
 
 <br/>
 
-## Welcome to MSCM Lab at [SCNU](https://www.scnu.ac.kr/SCNU/main.do?introChk=Y)
+## Welcome to CAM Lab at [SCNU](https://www.scnu.ac.kr/SCNU/main.do?introChk=Y)
 
 
 ## Contact
