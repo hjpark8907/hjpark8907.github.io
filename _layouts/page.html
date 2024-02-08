@@ -13,11 +13,8 @@ layout: base
             {% include {{ file }} %}
           {% endfor %}
         </div>
-      {% endif %}
-      <p style="color:gray; text-align: justify;>
+      {% endif %}      
       {{ content }}
-      </p>
-
       {% if page.after-content %}
         <div class="after-content">
           {% for file in page.after-content %}
