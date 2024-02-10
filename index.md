@@ -1,10 +1,10 @@
 ---
 layout: page
 title: |
-    Computational 
-    Analysis for  
-    Multiphysics  
-    Laboratory    
+    | Computational 
+    | Analysis for 
+    | Multiphysics 
+    | Laboratory    
 subtitle: School of Mechanical and Aerospace Engineering, SCNU
 ---
 
