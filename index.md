@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageMine
 title: Computational Analysis for Multiphysics Laboratory
 subtitle: School of Mechanical and Aerospace Engineering, SCNU
 ---
