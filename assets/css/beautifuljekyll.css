@@ -730,10 +730,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
-    padding: 4.375rem 0;
+    padding: 3.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 4rem;
+    font-size: 3.125rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
