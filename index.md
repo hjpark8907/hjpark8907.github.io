@@ -2,7 +2,7 @@
 layout: page
 title: main
 subtitle: School of Mechanical and Aerospace Engineering, SCNU
-cover-image: /assets/img/main_banner_test.png
+cover-img: /assets/img/main_banner_test.png
 ---
 
 <br/>
