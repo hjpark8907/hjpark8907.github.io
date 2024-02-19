@@ -3,6 +3,8 @@ layout: page
 title: Professor
 ---
 
+![HJPark](/assets/img/logo_m4.png)
+
 ### Hyung-Jun Park
 - Assistant Professor
 - School of Mechanical and Aerospace Engineering
