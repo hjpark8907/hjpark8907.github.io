@@ -4,6 +4,9 @@ title: Professor
 ---
 
 ![HJPark](/assets/img/HJpark_profile.jpg)
+<p align="center">
+  <img src="/assets/img/HJpark_profile.jpg">
+</p>
 
 ### Hyung-Jun Park
 - Assistant Professor
