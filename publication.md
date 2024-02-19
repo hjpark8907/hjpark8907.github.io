@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### International Journal Papers
-*	**Park HJ**, I Kim*. Direct imposition of the wall boundary condition for weakly compressible flows in three-dimensional smoothed particle hydrodynamics simulations, Physics of Fluids, Nov 2023.
+* I Kim,	**Park HJ***. Direct imposition of the wall boundary condition for weakly compressible flows in three-dimensional smoothed particle hydrodynamics simulations, Physics of Fluids, Nov 2023.
 *	**Park HJ**, H Seo*. A new SPH‑FEM coupling method for fluid–structure interaction using segment‑based interface treatment, Engineering with Computers, June 2023.
 *	MH Kim, **Park HJ***. Application of artificial neural networks using sequential prediction approach in indoor airflow prediction, Journal of Building Engineering, 69, 106319, June 2023.
 *	**Park HJ**, H Seo, PS Lee*. Direct imposition of the wall boundary condition for simulating free surface flows in SPH. Structural Engineering and Mechanics, 78, 4, 497-518, May 2021.
