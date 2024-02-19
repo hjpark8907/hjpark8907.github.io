@@ -24,8 +24,8 @@ title: Research
 <figcaption align="center">[ Dam breaking simulation suing segment based wall boundary (left) and heat transfer simulation (right) ]</figcaption></p>
 
 <br/>
-### Indoor Airflow Prediction
-* Prediction model using FVM simulation and artificial neural networks
+### Artificial Intelligence and Computational Mechanics
+* Indoor air flow prediction model using FVM simulation and artificial neural networks
 <p align="center">  
   <img src="/assets/img/indoor.png" align="center" width="100%">   
 <figcaption align="center">[ Artificial neural netwroks structure (left) and FVM simulation for temperature field (right) ]</figcaption></p>
