@@ -3,7 +3,7 @@ layout: page
 title: Professor
 ---
 
-![HJPark](/assets/img/logo_m4.png)
+![HJPark](/assets/img/HJpark_profile.jpg)
 
 ### Hyung-Jun Park
 - Assistant Professor
