@@ -3,13 +3,35 @@ layout: page
 title: Research
 ---
 
-here for research:
+### On-going Research Topic
+* Particle based Computatioanl Method for Structural Analysis
+* Granular Flows using SPH
+* Packing Density Optimization using DEM
 
-- haha
-- haha
+<br/>
+### Fluid-Structure Interaction
+* SPH-FEM coupling algorithm
+<p align="center">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+<figcaption align="center">Test caption</figcaption></p>
 
-What else do you need?
+<br/>
+### Computational Method
+* Segment based Wall Boundary Treatment Method in SPH
+* Heat Transfer Model at the Rigid Wall in SPH
+<p align="center">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+<figcaption align="center">Test caption</figcaption></p>
 
-### My story
-
-Hellow
+<br/>
+### Indoor Airflow Prediction
+* Prediction model using FVM simulation and Artificial Neural Networks
+<p align="center">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+  <img src="assets/img/avatar-icon.png" align="center" width="32%">  
+<figcaption align="center">Test caption</figcaption></p>
