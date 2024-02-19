@@ -4,7 +4,7 @@ title: Professor
 ---
 
 <p align="center">
-  <img src="/assets/img/HJpark_profile.jpg">
+  <img src="/assets/img/HJpark_profile_m2.jpg">
 </p>
 
 ### Hyung-Jun Park
