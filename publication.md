@@ -9,19 +9,19 @@ title: Publications
 *	MH Kim, **Park HJ***. Application of artificial neural networks using sequential prediction approach in indoor airflow prediction, Journal of Building Engineering, 69, 106319, June 2023.
 *	**Park HJ**, H Seo, PS Lee*. Direct imposition of the wall boundary condition for simulating free surface flows in SPH. Structural Engineering and Mechanics, 78, 4, 497-518, May 2021.
 * H Seo, **Park HJ**, PS Lee*. A density interpolation method for smoothed particle hydrodynamics. Advances in Engineering Software, 154, 102972, Jan 2021.
-
+<br/>
 
 ### Preprint
 * Kim J, **Park HJ**, Shin J. Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicle. arXiv preprint arXiv:2310.14507, 2023.
 * **Park HJ**, Kim J, Kim H. Segment-Based Wall Treatment Model for Heat Transfer Rate in Smoothed Particle Hydrodynamics. arXiv preprint arXiv:2311.14890, 2023.
-
+<br/>
 
 ### International Conference Proceedings
 * **Park HJ**, Seo HD, Lee PS. A new boundary treatment scheme to simulate two–dimensional free surface flows in SPH. PARTICLES 2019, Madrid, Spain. Oct 2019.
 * Seo HD, **Park HJ**, Lee PS.SPH Simulation of 2D Free Surface Flow using a New Density Correction Method. PARTICLES 2019, Madrid, Spain. Oct 2019.
 * Lee PS, **Park HJ**, Seo HD. Density correction and boundary treatment in SPH. The Sixth KAIST-SJTU- U.Tokyo symposium, Shanghai, China. Oct 2019.
 * **Park HJ**, Choi H, Shin S, Lee PS. Numerical simulation of explosive gas bubbles using BEM. The fifth KAIST-SJTU- U.Tokyo symposium. Sep 2018.
-
+<br/>
 
 ### Domestic Conference Proceedings
 * Seo HD, **Park HJ**, Lee PS. 입자 완화 유체 동역학의 밀도 추정 오차에 관한 연구. KSME 2019 춘계학술대회, Apr 2019.
