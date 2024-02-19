@@ -3,13 +3,9 @@ layout: page
 title: Lecture
 ---
 
-adf
+### Spring 2024
+* Solid mechanics I (고체역학 I)
+* Machine Component Design I (기계요소설계 I)
+* Creative Capstone Design I (창의적종합설계 I)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
