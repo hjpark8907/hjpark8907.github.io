@@ -10,10 +10,12 @@ title: Publications
 *	**Park HJ**, H Seo, PS Lee*. Direct imposition of the wall boundary condition for simulating free surface flows in SPH. Structural Engineering and Mechanics, 78, 4, 497-518, May 2021.
 * H Seo, **Park HJ**, PS Lee*. A density interpolation method for smoothed particle hydrodynamics. Advances in Engineering Software, 154, 102972, Jan 2021.
 <br/>
+<br/>
 
 ### Preprint
 * Kim J, **Park HJ**, Shin J. Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicle. arXiv preprint arXiv:2310.14507, 2023.
 * **Park HJ**, Kim J, Kim H. Segment-Based Wall Treatment Model for Heat Transfer Rate in Smoothed Particle Hydrodynamics. arXiv preprint arXiv:2311.14890, 2023.
+<br/>
 <br/>
 
 ### International Conference Proceedings
@@ -21,6 +23,7 @@ title: Publications
 * Seo HD, **Park HJ**, Lee PS.SPH Simulation of 2D Free Surface Flow using a New Density Correction Method. PARTICLES 2019, Madrid, Spain. Oct 2019.
 * Lee PS, **Park HJ**, Seo HD. Density correction and boundary treatment in SPH. The Sixth KAIST-SJTU- U.Tokyo symposium, Shanghai, China. Oct 2019.
 * **Park HJ**, Choi H, Shin S, Lee PS. Numerical simulation of explosive gas bubbles using BEM. The fifth KAIST-SJTU- U.Tokyo symposium. Sep 2018.
+<br/>
 <br/>
 
 ### Domestic Conference Proceedings
