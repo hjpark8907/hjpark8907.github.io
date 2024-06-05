@@ -13,7 +13,7 @@ cover-img: /assets/img/main_banner_m2.png
 ## Contact
 
 ```
-Affiliation: School of Mechanical and Aerospace Engineering, Sunchon National University, Sunchon, South Kore
+Affiliation: School of Mechanical and Aerospace Engineering, Sunchon National University, Sunchon, Republic of Korea
 Office: 255, Jungang-ro, Suncheon-si, Jeollanam-do, Republic of Korea
 Email: hjpark89@scnu.ac.kr
 ```
