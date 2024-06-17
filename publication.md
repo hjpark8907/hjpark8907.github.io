@@ -7,9 +7,9 @@ title: Publications
 * **Park HJ**, Kim J, Kim H*. Segment-Based Wall Treatment Model for Heat Transfer Rate in Smoothed Particle Hydrodynamics. Physics of Fluids (IF:4.6, Rank:2/34), Ranking, 2024(Accepted).
 * I Kim,	**Park HJ***. Direct imposition of the wall boundary condition for weakly compressible flows in three-dimensional smoothed particle hydrodynamics simulations, Physics of Fluids (IF:4.6, Rank:2/34), Nov 2023.
 *	**Park HJ**, H Seo*. A new SPH‑FEM coupling method for fluid–structure interaction using segment‑based interface treatment, Engineering with Computers (IF:8.7, Rank:4/136), June 2023.
-*	MH Kim, **Park HJ***. Application of artificial neural networks using sequential prediction approach in indoor airflow prediction, Journal of Building Engineering(IF:7.1, Rank:9/138), 69, 106319, June 2023.
-*	**Park HJ**, H Seo, PS Lee*. Direct imposition of the wall boundary condition for simulating free surface flows in SPH. Structural Engineering and Mechanics(IF:3.5, Rank:35/133), 78, 4, 497-518, May 2021.
-* H Seo, **Park HJ**, PS Lee*. A density interpolation method for smoothed particle hydrodynamics. Advances in Engineering Software(IF:4.3, Rank:15/110), 154, 102972, Jan 2021.
+*	MH Kim, **Park HJ***. Application of artificial neural networks using sequential prediction approach in indoor airflow prediction, Journal of Building Engineering (IF:7.1, Rank:9/138), 69, 106319, June 2023.
+*	**Park HJ**, H Seo, PS Lee*. Direct imposition of the wall boundary condition for simulating free surface flows in SPH. Structural Engineering and Mechanics (IF:3.5, Rank:35/133), 78, 4, 497-518, May 2021.
+* H Seo, **Park HJ**, PS Lee*. A density interpolation method for smoothed particle hydrodynamics. Advances in Engineering Software (IF:4.3, Rank:15/110), 154, 102972, Jan 2021.
 <br/>
 <br/>
 
