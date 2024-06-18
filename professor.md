@@ -11,7 +11,7 @@ title: Professor
 - Assistant Professor
 - School of Mechanical and Aerospace Engineering
 - Address: 255, Jungang-ro, Suncheon-si, Jeollanam-do, Republic of Korea
-- email: not yet..
+- email: hjpark89@scnu.ac.kr
 <br/>
 
 ### Education
