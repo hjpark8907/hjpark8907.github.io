@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### International Journal Papers
-* Kim J, **Park HJ**, Aditya P, Shin J. Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicle. IEEE Access, Aug 2024.
+* Kim J, **Park HJ**, Aditya P, Shin J. Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicle. IEEE Access (IF:3.4, Rank:122/352), Aug 2024.
 * **Park HJ**, Kim J, Kim H*. Segment-Based Wall Treatment Model for Heat Transfer Rate in Smoothed Particle Hydrodynamics. Physics of Fluids (IF:4.6, Rank:2/34), Jul 2024.
 * I Kim,	**Park HJ***. Direct imposition of the wall boundary condition for weakly compressible flows in three-dimensional smoothed particle hydrodynamics simulations, Physics of Fluids (IF:4.6, Rank:2/34), Nov 2023.
 *	**Park HJ**, H Seo*. A new SPH‑FEM coupling method for fluid–structure interaction using segment‑based interface treatment, Engineering with Computers (IF:8.7, Rank:4/136), Jun 2023.
