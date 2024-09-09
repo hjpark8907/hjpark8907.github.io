@@ -19,6 +19,7 @@ title: Publications
 <br/>
 
 ### International Conference Proceedings
+* **Park HJ**, Kim J. Insights into granular material flow modeling: DEM vs. SPH perspectives. ICTAM 2024, Daegu, Korea. Aug 2024.
 * **Park HJ**, Seo HD, Lee PS. A new boundary treatment scheme to simulate two–dimensional free surface flows in SPH. PARTICLES 2019, Madrid, Spain. Oct 2019.
 * Seo HD, **Park HJ**, Lee PS. SPH Simulation of 2D Free Surface Flow using a New Density Correction Method. PARTICLES 2019, Madrid, Spain. Oct 2019.
 * Lee PS, **Park HJ**, Seo HD. Density correction and boundary treatment in SPH. The Sixth KAIST-SJTU- U.Tokyo symposium, Shanghai, China. Oct 2019.
