@@ -2,6 +2,9 @@
 layout: page
 title: Lecture
 ---
+### Fall 2024
+* Solid mechanics II (고체역학 II)
+* Machine Component Design II (기계요소설계 II)
 
 ### Spring 2024
 * Solid mechanics I (고체역학 I)
