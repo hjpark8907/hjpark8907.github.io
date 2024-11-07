@@ -3,7 +3,7 @@ layout: page
 title: Students
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; padding-right: 20px;">
     <img src="/assets/img/SMPark.jpg" alt="Sungmin Park" style="width: 100%; height: auto;">
   </div>  
