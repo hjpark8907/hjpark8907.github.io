@@ -15,6 +15,7 @@ title: Publications
 <br/>
 
 ### Preprint
+* Kim J, HJ Kim, **Park HJ***. Comparative Analysis of Granular Material Flow: Discrete Element Method and Smoothed Particle Hydrodynamics Approaches. arXiv preprint, 2025.
 <br/>
 <br/>
 
