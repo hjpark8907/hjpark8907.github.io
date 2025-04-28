@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### International Journal Papers
+* Kim J, HJ Kim, **Park HJ***. Comparative Analysis of Granular Material Flow: Discrete Element Method and Smoothed Particle Hydrodynamics Approaches. Physics of Fluids (IF:4.1, Rank:2/40), 2025.
 * Kim J, **Park HJ**, Aditya P, Shin J. Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicle. IEEE Access (IF:3.4, Rank:122/352), Aug 2024.
 * **Park HJ**, Kim J, Kim H*. Segment-Based Wall Treatment Model for Heat Transfer Rate in Smoothed Particle Hydrodynamics. Physics of Fluids (IF:4.6, Rank:2/34), Jul 2024.
 * I Kim,	**Park HJ***. Direct imposition of the wall boundary condition for weakly compressible flows in three-dimensional smoothed particle hydrodynamics simulations. Physics of Fluids (IF:4.6, Rank:2/34), Nov 2023.
@@ -15,7 +16,7 @@ title: Publications
 <br/>
 
 ### Preprint
-* Kim J, HJ Kim, **Park HJ***. Comparative Analysis of Granular Material Flow: Discrete Element Method and Smoothed Particle Hydrodynamics Approaches. arXiv preprint, 2025.
+
 <br/>
 <br/>
 
