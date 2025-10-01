@@ -21,6 +21,7 @@ title: Publications
 <br/>
 
 ### International Conference Proceedings
+* Kim HJ, **Park HJ**, Kim J. Learning Non-Newtonian Free Surface Flow Dynamics: A Graph Neural Network Trained with Smoothed Particle Hydrodynamics. ACFM2025, Sep 2025.
 * **Park HJ**, Kim J. Insights into granular material flow modeling: DEM vs. SPH perspectives. ICTAM 2024, Daegu, Korea. Aug 2024.
 * **Park HJ**, Seo HD, Lee PS. A new boundary treatment scheme to simulate two–dimensional free surface flows in SPH. PARTICLES 2019, Madrid, Spain. Oct 2019.
 * Seo HD, **Park HJ**, Lee PS. SPH Simulation of 2D Free Surface Flow using a New Density Correction Method. PARTICLES 2019, Madrid, Spain. Oct 2019.
@@ -30,8 +31,6 @@ title: Publications
 <br/>
 
 ### Domestic Conference Proceedings
-* Kim HJ, **Park HJ**, Kim J. Learning Non-Newtonian Free Surface Flow Dynamics: A Graph Neural Network Trained with Smoothed Particle Hydrodynamics. ACFM2025, Sep 2025.
-* **Park HJ**, Kim J. INSIGHTS INTO GRANULAR MATERIAL FLOW MODELING: Discrete Element Method (DEM) VS. Smooth Particle Hydrodynamics (SPH) PERSPECTIVES. ICTAM2024, Aug 2024.
 * Kim HJ, **Park HJ**, Seo S. 개인화된 디지털 헬스케어를 위한 수치해석 시뮬레이션. 한국 CDE 2023 하계학술대회, Aug 2023.
 * Seo HD, **Park HJ**, Lee PS. 입자 완화 유체 동역학의 밀도 추정 오차에 관한 연구. KSME 2019 춘계학술대회, Apr 2019.
 * **Park HJ**, Seo HD, An CW, Lee PS. Simulation of explosive gas bubbles under zero gravity using boundary element method (경계요소법을 이용한 무중력 하에서의 폭발 가스버블의 거동모사). Naval ship technology & weapon systems seminar (함정기술세미나), Oct 2017.
