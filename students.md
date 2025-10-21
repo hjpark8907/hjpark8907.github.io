@@ -40,3 +40,15 @@ title: Students
     <p style="margin: 5px 0;">email: <a href="mailto:gw3695@gmail.com">gw3695@gmail.com</a></p>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; padding-right: 20px;">
+    <img src="/assets/img/avatar-icon.png" alt="Sungmin Park" style="width: 100%; height: auto;">
+  </div>  
+  <div style="line-height: 1.5;">
+    <h3 style="margin: 0;">Daehun Kim (김대훈)</h3>
+    <p style="margin: 5px 0;">Undergraduate</p>
+    <p style="margin: 5px 0;">Topic: Searching..</p>
+    <p style="margin: 5px 0;">email: <a href="mailto:daehun526@naver.com">daehun526@naver.com</a></p>
+  </div>
+</div>
