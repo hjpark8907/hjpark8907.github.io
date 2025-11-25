@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### International Journal Papers
+* Kim HJ, Kim J, **Park HJ***. Graph Neural Network Modeling of Free-Surface Flows in Non-Newtonian Power-Law Fluids. Physics of Fluids (IF:4.3, Rank:3/41), Dec 2025.
 * Choi S, **Park HJ**, Kim J*. A review of non-Newtonian flows around a sphere. Korea-Australia Rheology Journal (IF:2.6, Rank:71/171), Oct 2025.
 * Kim J, Kim HJ, **Park HJ***. Comparative Analysis of Granular Material Flow: Discrete Element Method and Smoothed Particle Hydrodynamics Approaches. Physics of Fluids (IF:4.1, Rank:2/40), May 2025.
 * Kim J, **Park HJ**, Aditya P, Shin J. Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicle. IEEE Access (IF:3.4, Rank:122/352), Aug 2024.
@@ -17,7 +18,6 @@ title: Publications
 <br/>
 
 ### Preprint
-* Kim HJ, Kim J, **Park HJ***. Graph-Based Learning of Free Surface Dynamics in Generalized Newtonian Fluids using Smoothed Particle Hydrodynamics. arXiv, 2025.
 <br/>
 <br/>
 
@@ -32,6 +32,7 @@ title: Publications
 <br/>
 
 ### Domestic Conference Proceedings
+* **Park HJ**. 배터리 제조 공정의 시뮬레이션 기반 최적설계: 전극 캘린더링과 분리막 압출 공정 적용 연구, 2025 한국유변학회 추계학술발표회, Nov 2025.
 * Kim HJ, **Park HJ**, Seo S. 개인화된 디지털 헬스케어를 위한 수치해석 시뮬레이션. 한국 CDE 2023 하계학술대회, Aug 2023.
 * Seo HD, **Park HJ**, Lee PS. 입자 완화 유체 동역학의 밀도 추정 오차에 관한 연구. KSME 2019 춘계학술대회, Apr 2019.
 * **Park HJ**, Seo HD, An CW, Lee PS. Simulation of explosive gas bubbles under zero gravity using boundary element method (경계요소법을 이용한 무중력 하에서의 폭발 가스버블의 거동모사). Naval ship technology & weapon systems seminar (함정기술세미나), Oct 2017.
