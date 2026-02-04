@@ -3,8 +3,9 @@ layout: page
 title: Publications
 ---
 
-### International Journal Papers
+### Peer Reviewed Journal
 * Kim HJ, Kim J, **Park HJ***. Graph Neural Network Modeling of Free-Surface Flows in Non-Newtonian Power-Law Fluids. Physics of Fluids (IF:4.3, Rank:3/41), Dec 2025.
+* Kim JS, **Park HJ***. Comparative Study of Simulation Methods for the Digital Twin of a Chemical Stirrer: Eulerian Grid-Based and Lagrangian Particle-Based Approaches. JKIECS (KCI), Dec 2025.
 * Choi S, **Park HJ**, Kim J*. A review of non-Newtonian flows around a sphere. Korea-Australia Rheology Journal (IF:2.6, Rank:71/171), Oct 2025.
 * Kim J, Kim HJ, **Park HJ***. Comparative Analysis of Granular Material Flow: Discrete Element Method and Smoothed Particle Hydrodynamics Approaches. Physics of Fluids (IF:4.1, Rank:2/40), May 2025.
 * Kim J, **Park HJ**, Aditya P, Shin J. Fast Marching based Rendezvous Path Planning for a Team of Heterogeneous Vehicle. IEEE Access (IF:3.4, Rank:122/352), Aug 2024.
