@@ -17,7 +17,8 @@ title: Publications
 <br/>
 <br/>
 
-### Preprint
+### Preprints & In Preparation
+* Designing Bimodal Particle Distributions for Battery Electrode Calendaring via DEM and Surrogate Optimization
 <br/>
 <br/>
 
