@@ -13,5 +13,11 @@
 - title: AI for Computational Mechanics
   slug: ai-computational-mechanics
   summary: Physics-informed and surrogate modeling for fast prediction and design optimization.
-  keywords: [PINN, Surrogate model, Digital twin]
+  keywords: [PINN, GNN, Surrogate model, Digital twin]
   detail_page: /research/ai-computational-mechanics/
+
+- title: Porous Microstructure Analysis
+  slug: porous-microstructure-analysis
+  summary: Pore-scale modeling and transport analysis for porous materials and structured media.
+  keywords: [Porous media, Microstructure, Multiscale simulation]
+  detail_page: /research/porous-microstructure-analysis/

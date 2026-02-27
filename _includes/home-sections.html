@@ -11,21 +11,13 @@
 <section>
   <h2>Highlights</h2>
   <div class="card-grid">
+    {% for item in site.data.home_highlights %}
     <article class="info-card">
-      <img class="card-figure" src="{{ '/assets/img/FSI.png' | relative_url }}" alt="Fluid-structure interaction simulation" loading="lazy">
-      <h3>Simulation Methods</h3>
-      <p>Unified workflows across particle and grid methods for multiphysics engineering design.</p>
+      <img class="card-figure" src="{{ item.image | relative_url }}" alt="{{ item.image_alt }}" loading="lazy">
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.description }}</p>
     </article>
-    <article class="info-card">
-      <img class="card-figure" src="{{ '/assets/img/Comp_method.png' | relative_url }}" alt="Computational method visualization" loading="lazy">
-      <h3>Industry Relevance</h3>
-      <p>Research topics are aligned with real industrial systems and digital engineering pipelines.</p>
-    </article>
-    <article class="info-card">
-      <img class="card-figure" src="{{ '/assets/img/indoor.png' | relative_url }}" alt="AI-assisted simulation result" loading="lazy">
-      <h3>AI + Mechanics</h3>
-      <p>Data-driven and physics-informed models accelerate prediction and optimization tasks.</p>
-    </article>
+    {% endfor %}
   </div>
 </section>
 

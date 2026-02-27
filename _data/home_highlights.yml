@@ -1,0 +1,19 @@
+- title: Simulation Methods
+  description: Unified workflows across particle and grid methods for multiphysics engineering design.
+  image: /assets/img/FSI.png
+  image_alt: Fluid-structure interaction simulation
+
+- title: Industry Relevance
+  description: Research topics are aligned with real industrial systems and digital engineering pipelines.
+  image: /assets/img/Comp_method.png
+  image_alt: Computational method visualization
+
+- title: AI + Mechanics
+  description: Data-driven and physics-informed models accelerate prediction and optimization tasks.
+  image: /assets/img/indoor.png
+  image_alt: AI-assisted simulation result
+
+- title: Microstructure & Multiscale
+  description: Bridging pore-scale physics and macro-scale performance through digital microstructure modeling and upscaling frameworks.
+  image: /assets/img/microstructure.png
+  image_alt: Digital porous microstructure visualization
