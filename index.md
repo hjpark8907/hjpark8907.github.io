@@ -7,4 +7,4 @@ after-content:
 cover-img: /assets/img/main_banner.png
 ---
 
-CAM Lab advances reliable computational mechanics to solve real engineering problems in fluids, structures, and particulate systems.
+CAM Lab advances reliable computational multiphysics to solve real engineering problems in fluids, structures, and particulate systems.
