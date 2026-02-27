@@ -10,8 +10,7 @@ jobs:
         run: |
           export JEKYLL_VERSION=4
           docker run --rm \
-            -v ${{ github.workspace }}:/srv/jekyll \
-            -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+            -v ${{ github.workspace }}:/srv/jekyll \            
             -e PAGES_REPO_NWO=${{ github.repository }} \
             jekyll/builder:$JEKYLL_VERSION /bin/bash -lc \
             "chmod 777 /srv/jekyll && bundle install && bundle exec jekyll build --future"
