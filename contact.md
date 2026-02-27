@@ -8,7 +8,7 @@ cover-img: /assets/img/main_banner.png
 ## Contact Information
 - **Affiliation:** School of Mechanical and Aerospace Engineering, Sunchon National University
 - **Address:** 255, Jungang-ro, Suncheon-si, Jeollanam-do, Republic of Korea
-- **Office:** Engineering Building, Room 255
+- **Office:** College of Engineering Building 1 (D2)
 - **Email:** [hjpark89@scnu.ac.kr](mailto:hjpark89@scnu.ac.kr)
 
 ## Map
@@ -21,9 +21,14 @@ cover-img: /assets/img/main_banner.png
   loading="lazy"
   referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Graduate Student Recruitment
-We welcome motivated students with interests in computational mechanics, CFD/FEM/DEM/SPH, and AI-assisted simulation.
+## Join Our Lab
 
-- Send a CV, transcript, and a short statement of interest by email.
-- Include preferred start term and research topic.
+We welcome highly motivated students who are interested in computational mechanics, multiphysics simulation (CFD/FEM/DEM/SPH), porous microstructure analysis for energy materials (e.g., secondary batteries), and AI-assisted engineering simulation.
+
+Our research integrates physics-based modeling, high-performance computing, and data-driven optimization for next-generation engineering design.
+
+### How to Apply
+
+- Send your CV, academic transcript, and a short statement of research interests by email.
+- Clearly indicate your preferred start term and potential research topic.
 - Selected applicants will be contacted for an interview.
