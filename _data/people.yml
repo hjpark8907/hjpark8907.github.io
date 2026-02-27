@@ -1,0 +1,31 @@
+pi:
+  name: Hyung-Jun Park
+  role: Assistant Professor
+  affiliation: School of Mechanical and Aerospace Engineering, Sunchon National University
+  office: Engineering Building Room 255
+  email: hjpark89@scnu.ac.kr
+  photo: /assets/img/HJpark_profile_m2.jpg
+
+students:
+  - name_en: Juneseo Kim
+    name_ko: 김준서
+    program: Undergraduate
+    topic: Physics Simulation based on PIGNN
+    email: wnstjrla5655@gmail.com
+    photo: /assets/img/Junseo.jpg
+  - name_en: Jisung Jung
+    name_ko: 정지성
+    program: Undergraduate
+    topic: Sloshing analysis in liquid tanks of space launch vehicles
+    email: wjdwltjd25@naver.com
+    photo: /assets/img/JSJung.jpg
+  - name_en: Daehun Kim
+    name_ko: 김대훈
+    program: Undergraduate
+    topic: Underwater explosion simulation
+    email: daehun526@naver.com
+    photo: /assets/img/Daehun.jpg
+
+alumni:
+  - name: Alumni updates in progress
+    note: Please contact the lab office for alumni records.

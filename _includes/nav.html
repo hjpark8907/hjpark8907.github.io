@@ -1,9 +1,10 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
+  {%- assign current_path = page.url | replace: 'index.html', '' -%}
 
   {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '/' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
+    <a class="navbar-brand navbar-brand-logo" href="{{ '/' | relative_url  }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
-    <a class="navbar-brand" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+    <a class="navbar-brand" href="{{ '/' | relative_url  }}">{{ site.title }}</a>
   {%- endif -%}
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -14,19 +15,40 @@
     <ul class="navbar-nav ml-auto">
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
+          {%- assign parent_active = false -%}
+          {%- for childlink in link[1] -%}
+            {%- for linkparts in childlink -%}
+              {%- assign child_path = '/' | append: linkparts[1] | append: '/' | replace: '//', '/' -%}
+              {%- if current_path == child_path or current_path contains child_path -%}
+                {%- assign parent_active = true -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endfor -%}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+            <a class="nav-link dropdown-toggle {% if parent_active %}active{% endif %}" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" {% if parent_active %}aria-current="page"{% endif %}>{{ link[0] }}</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                  {%- assign child_path = '/' | append: linkparts[1] | append: '/' | replace: '//', '/' -%}
+                  <a class="dropdown-item {% if current_path == child_path or current_path contains child_path %}active{% endif %}" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
                 {%- endfor -%}
               {%- endfor %}
             </div>
           </li>
         {% else %}
+          {%- assign nav_path = '/' | append: link[1] | append: '/' | replace: '//', '/' -%}
+          {%- assign nav_href = link[1] | relative_url -%}
+          {%- if link[1] == '' -%}
+            {%- assign nav_href = '/' | relative_url -%}
+          {%- endif -%}
+          {%- assign is_active = false -%}
+          {%- if link[1] == '' and current_path == '/' -%}
+            {%- assign is_active = true -%}
+          {%- elsif link[1] != '' and (current_path == nav_path or current_path contains nav_path) -%}
+            {%- assign is_active = true -%}
+          {%- endif -%}
           <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+            <a class="nav-link {% if is_active %}active{% endif %}" href="{{ nav_href }}" {% if is_active %}aria-current="page"{% endif %}>{{ link[0] }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
@@ -50,7 +72,7 @@
   {% if site.avatar and page.show-avatar != false %}
     <div class="avatar-container">
       <div class="avatar-img-border">
-        <a href="{{ '/' | absolute_url }}">
+        <a href="{{ '/' | relative_url  }}">
           <img alt="Navigation bar avatar" class="avatar-img" src="{{ site.avatar | relative_url }}" />
         </a>
       </div>

@@ -1,0 +1,109 @@
+- year: 2025
+  month: 12
+  sort_key: 202512
+  authors: "Kim HJ, Kim J, Park HJ*"
+  title: "Graph Neural Network Modeling of Free-Surface Flows in Non-Newtonian Power-Law Fluids"
+  venue: "Physics of Fluids"
+  note: "IF 4.3"
+  rank: "3/41"
+  doi: "10.1063/5.0303154"
+
+- year: 2025
+  month: 12
+  sort_key: 202512
+  authors: "Kim JS, Park HJ*"
+  title: "Comparative Study of Simulation Methods for the Digital Twin of a Chemical Stirrer"
+  venue: "JKIECS"
+  note: "KCI"
+  rank: ""
+  doi: ""
+
+- year: 2025
+  month: 10
+  sort_key: 202510
+  authors: "Choi S, Park HJ, Kim J*"
+  title: "A Review of Non-Newtonian Flows Around a Sphere"
+  venue: "Korea-Australia Rheology Journal"
+  note: "IF 2.6"
+  rank: "71/171"
+  doi: "10.1007/s13367-025-00134-4"
+
+- year: 2025
+  month: 5
+  sort_key: 202505
+  authors: "Kim J, Kim HJ, Park HJ*"
+  title: "Comparative Analysis of Granular Material Flow: DEM and SPH Approaches"
+  venue: "Physics of Fluids"
+  note: "IF 4.1"
+  rank: "2/40"
+  doi: ""
+
+- year: 2024
+  month: 8
+  sort_key: 202408
+  authors: "Kim J, Park HJ, Aditya P, Shin J"
+  title: "Fast Marching Based Rendezvous Path Planning for a Team of Heterogeneous Vehicle"
+  venue: "IEEE Access"
+  note: "IF 3.4"
+  rank: "122/352"
+  doi: "10.1109/ACCESS.2024.3444314"
+
+- year: 2024
+  month: 7
+  sort_key: 202407
+  authors: "Park HJ, Kim J, Kim H*"
+  title: "Segment-Based Wall Treatment Model for Heat Transfer Rate in Smoothed Particle Hydrodynamics"
+  venue: "Physics of Fluids"
+  note: "IF 4.6"
+  rank: "2/34"
+  doi: "10.1063/5.0211482"
+
+- year: 2023
+  month: 11
+  sort_key: 202311
+  authors: "Kim I, Park HJ*"
+  title: "Direct imposition of the wall boundary condition for weakly compressible flows in 3D SPH"
+  venue: "Physics of Fluids"
+  note: "IF 4.6"
+  rank: "2/34"
+  doi: "10.1063/5.0170209"
+
+- year: 2023
+  month: 6
+  sort_key: 202306
+  authors: "Park HJ, Seo H*"
+  title: "A New SPH-FEM Coupling Method for Fluid-Structure Interaction Using Segment-Based Interface Treatment"
+  venue: "Engineering with Computers"
+  note: "IF 8.7"
+  rank: "4/136"
+  doi: "10.1007/s00366-023-01856-1"
+
+- year: 2023
+  month: 6
+  sort_key: 202306
+  authors: "Kim MH, Park HJ*"
+  title: "Application of Artificial Neural Networks Using Sequential Prediction in Indoor Airflow Prediction"
+  venue: "Journal of Building Engineering"
+  note: "IF 7.1"
+  rank: "9/138"
+  doi: "10.1016/j.jobe.2023.106319"
+
+- year: 2021
+  month: 5
+  sort_key: 202105
+  authors: "Park HJ, Seo H, Lee PS*"
+  title: "Direct imposition of the wall boundary condition for simulating free surface flows in SPH"
+  venue: "Structural Engineering and Mechanics"
+  note: "IF 3.5, Vol.78(4):497-518"
+  rank: "35/133"
+  doi: "10.12989/sem.2021.78.4.497"
+
+- year: 2021
+  month: 4
+  sort_key: 202104
+  authors: "Seo H-D, Park H-J, Kim J-I, Lee PS"
+  title: "The Particle-Attached Element Interpolation for Density Correction in Smoothed Particle Hydrodynamics"
+  venue: "Advances in Engineering Software"
+  note: "IF 4.3, 154:102972"
+  rank: "15/110"
+  doi: "10.1016/j.advengsoft.2021.102972"

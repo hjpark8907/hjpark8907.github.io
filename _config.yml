@@ -11,6 +11,8 @@
 
 # Name of website
 title: CAM Lab
+url: "https://hjpark8907.github.io"
+baseurl: ""
 
 # Your name to show in the footer
 author: Last updated, Feb 2024
@@ -20,14 +22,13 @@ author: Last updated, Feb 2024
 ###############################################
 
 navbar-links:
-  About Lab: "aboutme"
-  Members:
-    - Professor: "professor"
-    - Students: "students"
-    - Alumni: "alumni"
+  Home: ""
   Research: "research"
-  Publications: "publication"
-  Lecture: "lecture"
+  People: "people"
+  Publications: "publications"
+  Projects: "projects"
+  News: "news"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
@@ -35,14 +36,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/logo_m5.png"
+avatar: "/assets/img/lab_logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/left_logo.png
 
 
 #####################################
@@ -158,12 +159,12 @@ footer-hover-col: "#0085A1"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
+site-js:
+  - "/assets/js/section-nav.js"
 
 #################################
 # --- Web Analytics Section --- #
@@ -259,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -283,6 +284,28 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "page"
+      before-content:
+        - back-to-research.html
+  -
+    scope:
+      path: ""
+      type: "news"
+    values:
+      layout: "page"
+
+collections:
+  research:
+    output: true
+    permalink: /research/:name/
+  news:
+    output: true
+    permalink: /news/:name/
 
 # Exclude these files from production site
 exclude:
@@ -301,4 +324,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

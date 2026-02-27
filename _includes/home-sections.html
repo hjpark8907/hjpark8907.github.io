@@ -1,0 +1,60 @@
+<section>
+  <h2>Research Keywords</h2>
+  <p class="chip-row">
+    {% assign all_keywords = "SPH,FEM,FVM,DEM,Fluid-Structure Interaction,Physics-Informed AI,Digital Twin" | split: "," %}
+    {% for keyword in all_keywords %}
+      <span class="chip">{{ keyword }}</span>
+    {% endfor %}
+  </p>
+</section>
+
+<section>
+  <h2>Highlights</h2>
+  <div class="card-grid">
+    <article class="info-card">
+      <img class="card-figure" src="{{ '/assets/img/FSI.png' | relative_url }}" alt="Fluid-structure interaction simulation" loading="lazy">
+      <h3>Simulation Methods</h3>
+      <p>Unified workflows across particle and grid methods for multiphysics engineering design.</p>
+    </article>
+    <article class="info-card">
+      <img class="card-figure" src="{{ '/assets/img/Comp_method.png' | relative_url }}" alt="Computational method visualization" loading="lazy">
+      <h3>Industry Relevance</h3>
+      <p>Research topics are aligned with real industrial systems and digital engineering pipelines.</p>
+    </article>
+    <article class="info-card">
+      <img class="card-figure" src="{{ '/assets/img/indoor.png' | relative_url }}" alt="AI-assisted simulation result" loading="lazy">
+      <h3>AI + Mechanics</h3>
+      <p>Data-driven and physics-informed models accelerate prediction and optimization tasks.</p>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>Latest News & Publications</h2>
+  <div class="card-grid two-col">
+    <article class="info-card">
+      <h3>Latest News</h3>
+      {% assign latest_news = site.news | sort: "date" | reverse | slice: 0, 3 %}
+      <ul>
+      {% for item in latest_news %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a> <small>({{ item.date | date: "%Y-%m-%d" }})</small></li>
+      {% endfor %}
+      </ul>
+    </article>
+    <article class="info-card">
+      <h3>Latest Publications</h3>
+      {% assign latest_pubs = site.data.publications | sort: "sort_key" | reverse | slice: 0, 3 %}
+      <ul>
+      {% for pub in latest_pubs %}
+        <li>{{ pub.authors }}. <strong>{{ pub.title }}</strong> ({{ pub.year }}){% if pub.doi %} - <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}</li>
+      {% endfor %}
+      </ul>
+    </article>
+  </div>
+</section>
+
+<section class="cta-block">
+  <h2>Contact CAM Lab</h2>
+  <p>Interested in collaboration, graduate study, or sponsored research?</p>
+  <a class="btn btn-primary" href="{{ '/contact' | relative_url }}">Get in Touch</a>
+</section>

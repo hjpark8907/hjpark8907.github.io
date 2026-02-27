@@ -1,0 +1,18 @@
+- title: AI-Accelerated non-Newtonian Free-Surface Flow Prediction (Proposal Submitted)
+  status: ongoing
+  period: "2026-2028 (proposed)"
+  sponsor: "National Research Foundation of Korea (under review)"
+  summary: Physics-informed and graph-based models for rapid non-Newtonian free-surface flow prediction.
+
+- title: Particle-based numerical simulation for performance evaluation of an agitator
+  status: completed
+  period: "2024"
+  sponsor: "SCNU-Supported Faculty Research Project"
+  summary: Conducted a comparative study between CFD and Smoothed Particle Hydrodynamics (SPH) for hydrodynamic performance evaluation of stirred reactors. Developed a particle-based multiphysics modeling framework to assess mixing characteristics and flow behavior, demonstrating the enhanced flexibility and scalability of SPH for digital twin applications in complex reactive systems.
+
+- title: Development of a real-time simulator for separator manufacturing processes.
+  status: completed
+  period: "2022-2023"
+  sponsor: "LG Chem (Internal R&D Project)"
+  summary: Designed and implemented a physics-based computational modeling framework for twin-screw extrusion processes in separator manufacturing. Developed a reduced-order digital twin capable of real-time prediction of thermo-mechanical behavior, including pressure evolution, shear fields, and residence time distribution. The platform enabled data-driven process optimization and advanced digital manufacturing integration.
+

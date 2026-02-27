@@ -1,0 +1,17 @@
+- title: Fluid-Structure Interaction
+  slug: fluid-structure-interaction
+  summary: Coupled SPH-FEM methods for free-surface and structural interaction problems.
+  keywords: [SPH-FEM, Free-surface flow, Multiphysics coupling]
+  detail_page: /research/fluid-structure-interaction/
+
+- title: Computational Methods
+  slug: computational-methods
+  summary: Boundary treatment, heat transfer, and robust numerical schemes for particle methods.
+  keywords: [SPH boundary condition, Heat transfer, Numerical stability]
+  detail_page: /research/computational-methods/
+
+- title: AI for Computational Mechanics
+  slug: ai-computational-mechanics
+  summary: Physics-informed and surrogate modeling for fast prediction and design optimization.
+  keywords: [PINN, Surrogate model, Digital twin]
+  detail_page: /research/ai-computational-mechanics/
