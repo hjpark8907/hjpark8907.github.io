@@ -298,6 +298,8 @@ defaults:
       type: "news"
     values:
       layout: "page"
+      before-content:
+        - back-to-news.html
 
 collections:
   research:

@@ -13,7 +13,12 @@ layout: base
             {% include {{ file }} %}
           {% endfor %}
         </div>
-      {% endif %}      
+      {% endif %}
+      {% if page.collection == "news" and page.date %}
+        <p class="news-meta">
+          {{ page.date | date: "%Y-%m-%d" }}{% if page.category %} · {{ page.category }}{% endif %}
+        </p>
+      {% endif %}
       {{ content }}
       {% if page.after-content %}
         <div class="after-content">
