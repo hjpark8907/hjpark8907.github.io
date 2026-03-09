@@ -12,7 +12,7 @@ cover-img: /assets/img/main_banner.png
   <div>
     <h3>{{ pi.name }}</h3>
     <p>{{ pi.role }}</p>
-    <p>{{ pi.affiliation }}</p>
+    <p>{{ pi.affiliation | newline_to_br}}</p>
     <p>Email: <a href="mailto:{{ pi.email }}">{{ pi.email }}</a></p>
     <p>Office: {{ pi.office }}</p>
   </div>
@@ -22,7 +22,9 @@ cover-img: /assets/img/main_banner.png
 <div class="people-grid">
 {% for person in site.data.people.students %}
   <article class="person-card">
-    <img src="{{ person.photo | relative_url }}" alt="{{ person.name_en | default: person.name }}" loading="lazy" width="150" height="150">
+    <div class="person-photo-frame">
+      <img src="{{ person.photo | relative_url }}" alt="{{ person.name_en | default: person.name }}" loading="lazy" width="150" height="150">
+    </div>
     <h3 class="person-name">
       <span class="name-en">{{ person.name_en | default: person.name }}</span>
       {% if person.name_ko %}<span class="name-ko">({{ person.name_ko }})</span>{% endif %}

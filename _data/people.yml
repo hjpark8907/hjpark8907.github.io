@@ -1,7 +1,9 @@
 pi:
   name: Hyung-Jun Park
   role: Assistant Professor
-  affiliation: School of Mechanical and Aerospace Engineering, Sunchon National University
+  affiliation: |
+      School of Mechanical and Aerospace Engineering, 
+      Sunchon National University
   office: College of Engineering Building 1 (D2)
   email: hjpark89@scnu.ac.kr
   photo: /assets/img/HJpark_profile_m2.jpg
@@ -15,7 +17,7 @@ students:
     photo: /assets/img/Junseo.jpg
   - name_en: Jisung Jung
     name_ko: 정지성
-    program: Undergraduate
+    program: Master's Candidate
     topic: Sloshing analysis in liquid tanks of space launch vehicles
     email: wjdwltjd25@naver.com
     photo: /assets/img/JSJung.jpg
