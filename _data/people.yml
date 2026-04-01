@@ -9,12 +9,12 @@ pi:
   photo: /assets/img/HJpark_profile_m2.jpg
 
 students:
-  - name_en: Juneseo Kim
-    name_ko: 김준서
-    program: Undergraduate
-    topic: Physics Simulation based on PIGNN
-    email: wnstjrla5655@gmail.com
-    photo: /assets/img/Junseo.jpg
+  # - name_en: Juneseo Kim
+  #   name_ko: 김준서
+  #   program: Undergraduate
+  #   topic: Physics Simulation based on PIGNN
+  #   email: wnstjrla5655@gmail.com
+  #   photo: /assets/img/Junseo.jpg
   - name_en: Jisung Jung
     name_ko: 정지성
     program: Master's Candidate
