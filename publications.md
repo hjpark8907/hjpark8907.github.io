@@ -20,8 +20,9 @@ cover-img: /assets/img/main_banner.png
 </ol>
 {% endfor %}
 
-## Preprints & In Preparation
-- Designing Bimodal Particle Distributions for Battery Electrode Calendaring via DEM and Surrogate Optimization
+## Submitted & In Preparation
+- Jung J, Park HJ. <strong>SPH Analysis of Bond-Number-Dependent Sloshing Dynamics in a Spherical Tank under Microgravity Conditions</strong>. Submitted to CMES - Computer Modeling in Engineering and Sciences.
+- <strong>A Review of SPH-Based Modeling for Non-Newtonian Fluids: From Viscoelastic to Viscoplastic Flows</strong>. In preparation.
 
 ## International Conference Proceedings
 - Kim HJ, Park HJ, Kim J. Learning Non-Newtonian Free Surface Flow Dynamics: A Graph Neural Network Trained with Smoothed Particle Hydrodynamics. ACFM2025, Sep 2025.

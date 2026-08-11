@@ -1,3 +1,13 @@
+- year: 2026
+  month: 11
+  sort_key: 202611
+  authors: "Park HJ*, Byun H, Kim HJ, Kim J"
+  title: "Process-microstructure-property optimization of bimodal particle size distributions in battery electrode calendering"
+  venue: "Journal of Power Sources"
+  note: "IF 8.4"
+  rank: "7/44"
+  doi: "10.1016/j.jpowsour.2026.241149"
+
 - year: 2025
   month: 12
   sort_key: 202512
