@@ -21,7 +21,6 @@ cover-img: /assets/img/main_banner.png
 {% endfor %}
 
 ## Submitted & In Preparation
-- Jung J, Park HJ. <strong>SPH Analysis of Bond-Number-Dependent Sloshing Dynamics in a Spherical Tank under Microgravity Conditions</strong>. Submitted to CMES - Computer Modeling in Engineering and Sciences.
 - <strong>A Review of SPH-Based Modeling for Non-Newtonian Fluids: From Viscoelastic to Viscoplastic Flows</strong>. In preparation.
 
 ## International Conference Proceedings

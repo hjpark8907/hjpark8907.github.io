@@ -8,6 +8,15 @@
   rank: "7/44"
   doi: "10.1016/j.jpowsour.2026.241149"
 
+- year: 2026
+  month: 10
+  sort_key: 202610
+  authors: "Jung J, Park HJ*"
+  title: "SPH Analysis of Bond-Number-Dependent Sloshing Dynamics in a Spherical Tank under Microgravity Conditions"
+  venue: "Computer Modeling in Engineering & Sciences"
+  note: "IF 2.9"
+  doi: "10.32604/cmes.2026.090727"
+
 - year: 2025
   month: 12
   sort_key: 202512
