@@ -20,9 +20,6 @@ cover-img: /assets/img/main_banner.png
 </ol>
 {% endfor %}
 
-## Submitted & In Preparation
-- <strong>A Review of SPH-Based Modeling for Non-Newtonian Fluids: From Viscoelastic to Viscoplastic Flows</strong>. In preparation.
-
 ## International Conference Proceedings
 - Kim HJ, Park HJ, Kim J. Learning Non-Newtonian Free Surface Flow Dynamics: A Graph Neural Network Trained with Smoothed Particle Hydrodynamics. ACFM2025, Sep 2025.
 - Park HJ, Kim J. Insights into granular material flow modeling: DEM vs. SPH perspectives. ICTAM 2024, Daegu, Korea. Aug 2024.

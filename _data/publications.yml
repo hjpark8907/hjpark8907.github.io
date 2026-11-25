@@ -1,6 +1,14 @@
 - year: 2026
   month: 11
   sort_key: 202611
+  authors: "Jung J, Kim J, Park HJ*"
+  title: "A review of SPH-based modeling for non-Newtonian fluids: from viscoelastic to viscoplastic flows"
+  venue: "Korea-Australia Rheology Journal"
+  doi: "10.1007/s13367-026-00189-x"
+
+- year: 2026
+  month: 11
+  sort_key: 202611
   authors: "Park HJ*, Byun H, Kim HJ, Kim J"
   title: "Process-microstructure-property optimization of bimodal particle size distributions in battery electrode calendering"
   venue: "Journal of Power Sources"
